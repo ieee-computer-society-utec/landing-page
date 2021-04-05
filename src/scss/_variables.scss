@@ -1,12 +1,12 @@
 // Variables
 
 // Set custom colors
-$cs-orange: #FFA300;
-$cs-blue: #00629B;
+$ieee-cs-s: #00B5E2;
+$ieee-cs-p: #FFA300;
 
 // Override Bootstrap primary and secondary colors
-$primary: $cs-orange;
-$secondary: $cs-blue;
+$primary: $ieee-cs-p;
+$secondary: $ieee-cs-s;
 
 // Override Bootstrap font variables
 $font-family-sans-serif: "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI",
